@@ -23,7 +23,7 @@ Since I am following the TutorialsPoint list, the solutions are organized by the
 ## Progress Tracker
 | # | Problem Name | Source | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1-bit and 2-bit Characters | TutorialsPoint (Amazon) | Easy | [View Code](./Amazon/one_bit_char.py) |
+| 1 | 1-bit and 2-bit Characters | TutorialsPoint (Amazon) | Easy | [View Code](Alphabet/one_bit_char.py) |
 | 2 | 3Sum | TutorialsPoint (Meta) | Medium | *Coming Soon* |
 
 ---
