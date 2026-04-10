@@ -23,8 +23,8 @@ Since I am following the TutorialsPoint list, the solutions are organized by the
 ## Progress Tracker
 | # | Problem Name | Source | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1-bit and 2-bit Characters | TutorialsPoint (Amazon) | Easy | [View Code](./Amazon/one_bit_char.py) |
-| 2 | 3Sum | TutorialsPoint (Meta) | Medium | *Coming Soon* |
+| 1 | 1-bit and 2-bit Characters | TutorialsPoint (Alphabte,Meta) | Easy | [View Code](./Amazon/one_bit_char.py) |
+| 2 | A Number After a Double Reversal | TutorialsPoint (Alphabet,Amazon) | Easy | [View Code](Alphabet/a_number_after_double_reversal.py) |
 
 ---
 *It’s not about solving 1000 problems; it’s about understanding the 100 patterns that solve them.*
